@@ -14,3 +14,10 @@ with different crossover and mutations are conducted to com-
 pare the efficiency. Computational experiments on various in-
 stances demonstrate that the proposed algorithm can effectively
 solve the PPDP.
+
+Please install all requirements before running the code:
+```pip install -r requirements.txt```
+
+
+References:
+https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
